@@ -9,20 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d602182-5558-4475-95d1-abff0522e25f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../OcallHelloWorld.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.config_HW_DEBUG_x64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OcallHelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enclave/Enclave.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enclave/Enclave_private_test.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enclave/Enclave_t.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enclave/Enclave_t.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enclave/Enclave_t.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enclave.signed.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enclave.so" beforeDir="false" />
+    <list default="true" id="9d602182-5558-4475-95d1-abff0522e25f" name="Changes" comment="2023/06/11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +46,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/yorky/Desktop/STUDY/SGX/SampleCode/OcallHelloWorld/OcallHelloWorld",
+    "last_opened_file_path": "C:/Users/yorky/Desktop/STUDY/SGX/SampleCode/LocalAttestation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,8 +64,25 @@
       <option name="presentableId" value="Default" />
       <updated>1686139500550</updated>
       <workItem from="1686139504207" duration="51000" />
-      <workItem from="1686417579536" duration="598000" />
+      <workItem from="1686417579536" duration="1183000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/06/11">
+      <option name="closed" value="true" />
+      <created>1686418223238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686418223238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023/06/11">
+      <option name="closed" value="true" />
+      <created>1686418434138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686418434138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/06/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/06/11" />
   </component>
 </project>
